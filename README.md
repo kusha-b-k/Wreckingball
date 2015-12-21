@@ -1,8 +1,6 @@
-# ClockRotation_JUMP
+##ClockRotation_JUMP
 Rotate and jump code 
-
-THE OUT PUT LOOKS LIKE BELOW
-
+#Screenshot
 
 ![alt tag](https://github.com/kusha-b-k/ClockRotation_JUMP/blob/master/rotation.gif)
 
