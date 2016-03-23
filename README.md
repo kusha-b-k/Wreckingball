@@ -6,7 +6,12 @@
 <meta http-equiv="refresh" content="30">
 </head>
 ##wreckingball
-Rotate and jump 
+
+
+##about
+wreckingball is a heavy metal ball,rotating in the center of the screen to see how it works just follow the below sceenshot
+
+
 #Screenshot
 
 https://github.com/kusha-b-k/Wreckingball/blob/master/rotation.gif
